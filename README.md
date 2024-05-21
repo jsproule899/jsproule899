@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm @jsprouele899 (Josh)</h1>
-<h3 align="center">a Senior Analytical chemist trying to pivot into a career in Software </h3>
+<h1 align="center">Hi 👋, I'm Josh</h1>
+<h3 align="center">a Senior Analytical Chemist pivoting into a career in Software </h3>
 
 - 🔭 I’m currently working on **a part time masters in Software Development**
 
